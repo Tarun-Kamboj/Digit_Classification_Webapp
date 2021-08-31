@@ -1,4 +1,4 @@
-# Digit_Classification_Webapp
+# Digit Classification Webapp
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/) 
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](http://kambojtarun.pythonanywhere.com/)<br> 
 ![made-with-react](https://img.shields.io/badge/react-17.0-61DAFB?style=for-the-badge&logo=React) 
